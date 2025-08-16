@@ -14,17 +14,11 @@
         "Allowoffline": false
     },
     {
-        "device_id": "69f18ee9630dc3ba",
-        "username": "tweve",
-        "password": "123",
-        "expirydate": "16-08-2025",
-        "Allowoffline": false
+        "device_id": "ff495bf35e9fea0e",
+        "username": "pass",
+        "password": "pass",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
     },
-        {
-        "device_id": "69f18ee9630dc3ba",
-        "username": "TWEVE3",
-        "password": "123",
-        "expirydate": "16-08-2025",
-        "Allowoffline": false
-        }
+    
 ]
